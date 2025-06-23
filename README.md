@@ -1,6 +1,6 @@
 # care_old
 
-A new Flutter project.
+I built an app using Flutter to help seniors who need to be reminded to take their medications, book appointments with their doctor, and monitor their blood pressure and blood sugar levels using artificial intelligence.
 
 ## Getting Started
 
